@@ -1,0 +1,5 @@
+React Context API access to 2 components: 
+They are Provider and Consumer
+1) Provider allows all components in the component tree to accessible
+2) Consumer was used to access that information
+<RoomContext.Provider value={} />
